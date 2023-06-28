@@ -15,3 +15,5 @@
 ## Research
 - A computational study and meta-analysis of content based image retrieval - [IJATEE](https://accentsjournals.org/paperInfo.php?journalPaperId=1116&countPaper=631)
 - A methodological study and analysis of machine learning algorithms - [IJATEE](https://accentsjournals.org/paperInfo.php?journalPaperId=1119&countPaper=764)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
