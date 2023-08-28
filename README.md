@@ -66,6 +66,21 @@
 
 ## PROJECTS
 
+### MUKHYAMANTRI LADLI BAHNA YOJNA – SUBSIDY DISBURSEMENT SYSTEM OF MPWCD DEPT.
+- **Category**: Government Subsidy Disbursement System of MPWCD
+- **Technologies Used**:  ASP.NET, C#, SQL Server, Azure (DevOps, Cloud, BLOB Storage), etc.
+- **Aim**: Our aim is to build a system to distribute Rs. 1000 Per Woman Per Month in MP (Total 1.25+ Cr. Beneficiaries).
+- **Role**: Worked on Mukhya Mantri Ladli Bahna Yojna Project under these modules: 
+          o Payment Module (1000+ Cr amount disbursement per month). 
+          o Reporting System with (100+ Reports under a month) (1.25+ Cr records can be displayed, downloaded with various filters, and according to different user roles).
+          o Console Application-based Schedulers to send Messages (every time 1.25+ Cr.), and receive responses from API.
+
+### MUKHYAMANTRI SEEKHO KAMAO YOJNA – SUBSIDY DISBURSEMENT SYSTEM
+- **Category**: Government Subsidy Disbursement System of MPSSDEGB
+- **Technologies Used**: Dot.NET MVC, C#, SQL Server, Azure DevOps, AWS (Cloud, S3 Storage)
+- **Aim**: : Dot.NET MVC, C#, SQL Server, Azure DevOps, AWS (Cloud, S3 Storage).
+- **Role**: My Role was to develop Reporting System, Console Application-based Schedulers to send Messages (SMS, WhatsApp, Email), and receive responses from API's.
+
 ### MPAGRO – CMS FOR MADHYA PRADESH STATE AGRICULTURE DEPARTMENT
 - **Category**: Government Department Website
 - **Technologies Used**: ASP.NET, JavaScript / JQuery, SQL Server, HTML5 / CSS3, Bootstrap
