@@ -3,7 +3,7 @@
 
 ## Skill_Stack
 
-- [x] &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`5+Y`
+- [x] &nbsp; ASP.NET, C#, Dot.Net Core (3.1, 5, 6), MS SQL Server&nbsp;&nbsp;-&nbsp;`6+Y`
 - [x] &nbsp; Core PHP, CodeIgniter, Laravel, WordPress, MySQL / MariaDB&nbsp;&nbsp;-&nbsp;`3+Y`
 - [x] &nbsp; JQuery / AJAX / REST API / Microservices&nbsp;&nbsp;-&nbsp;`3+Y`
 - [x] &nbsp; Azure DevOps, AWS, CI/CD, Linux Server, C Panel / Plask&nbsp;&nbsp;-&nbsp;`2+Y`
@@ -20,7 +20,8 @@
   - Console Application-based Schedulers to send Messages (every time 1.25+ Cr.), and receive responses from API.
 - Worked on Mukhya Mantri Shikho Kamao Yojna on the latest technology including (AWS, Dot.Net MVC, Micro-Service architecture, and so on).
 - Worked on MP E-Services Portal (Including Anukampa Niyukti Yojna, CM Young Professional Development Program, and CTScan Module).
-- Worked on MatPratishat App’s Notification Module, Developed Console App for SMS& WhatsApp
+- Worked on MatPratishat App’s Notification Module, Developed Console App for SMS& WhatsApp.
+- Worked on SAMBAL 2.0 Payment and Reporting (Web, SMS, WhatsApp, Email, etc.) modules.
 
 ### ASSISTANT PROGRAMMER, PROFESSIONAL EXAMINATION BOARD (M.P. GOVT.)
 `Sept 2020 – Aug 2022`
