@@ -1553,7 +1553,7 @@ function MoreProyectsComponent_div_11_Template(rf, ctx) {
     const project_r2 = ctx.$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("src", project_r2.imgs, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("width", project_r2.imgs == "assets/images/achievements/nasscom.png" ? 100 : project_r2.imgs == "assets/images/achievements/hackerrank.png" ? 150 : 40);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("width", project_r2.imgs == "assets/images/achievements/nasscom.png" ? 100 : project_r2.imgs == "assets/images/achievements/hackerrank.png" ? 150 : project_r2.imgs == "assets/images/achievements/gdg.svg" ? 250 : project_r2.imgs == "assets/images/achievements/sansad.jpg" ? 100 : project_r2.imgs == "assets/images/achievements/NIT.jpg" ? 60 : project_r2.imgs == "assets/images/achievements/ITDP.png" ? 100 : 40);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("href", project_r2["demoLink"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
