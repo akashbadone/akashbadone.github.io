@@ -15,7 +15,13 @@
                         <div class="more-proyect-box">
                             <div class="row w-100 text-left m-0 p-0">
                                 <div class="col-6 p-0">
-                                    <img src={{project.imgs}} [width]="(project.imgs == 'assets/images/achievements/nasscom.png') ? 100 : project.imgs == 'assets/images/achievements/hackerrank.png' ? 150 : 40">
+                                    <img src={{project.imgs}} [width]="
+                                    (project.imgs == 'assets/images/achievements/nasscom.png') ? 100 : 
+                                        project.imgs == 'assets/images/achievements/hackerrank.png' ? 150 : 
+                                            project.imgs == 'assets/images/achievements/gdg.svg' ? 250 : 
+                                                project.imgs == 'assets/images/achievements/sansad.jpg' ? 100 : 
+                                                    project.imgs == 'assets/images/achievements/NIT.jpg' ? 60 : 
+                                                        project.imgs == 'assets/images/achievements/ITDP.png' ? 100 : 40">
                                     <!-- assets/icons/folder.svg -->
                                 </div>
                                 <div class="col-6 d-flex p-0 justify-content-end">

@@ -21,10 +21,20 @@
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
+      "Tab": "MPONLINE",
+      "Company": "MPOnline Limited",
+      "Title": "IT Analyst",
+      "Date": "Jan 2025 - Present",
+      "Description": [
+        "Working on MPPSC Exam Application forms, payment system and reports.",
+        "Working on WCDs Anganwadi and Child Helpline Recruitment Services."
+      ]
+    },
+    {
       "Tab": "MPSEDC",
       "Company": "M.P. State Electronics Development Corporation LTD.",
       "Title": "Sr. Software Engineer",
-      "Date": "Sept 2022 - Present",
+      "Date": "Sept 2022 - Dec 2024",
       "Description": [
         "Worked on integrating Aadhar (OTP, Biometric, and Iris) e-KYC API’s and Samagra API’s under MP Shiksha Portal.",
         "Worked on Mukhya Mantri Ladli Bahna Yojna Project under these modules: </br> 1. Payment Module (1000+ Cr amount disbursement per month). </br> 2. Reporting System with (100+ Reports under a month) (1.25+ Cr records can be displayed downloaded with various filters, and according to different user roles). </br> 3. Console Application-based Schedulers to send Messages (every time 1.25+ Cr.), and receive responses from API's.",
@@ -202,6 +212,54 @@
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/757dc75bae1f",
       "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+    },
+    {
+      "Title": "SQL (Basic) Certificate",
+      "Description": "Completed SQL (Basic) Certificate From HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+    },
+    {
+      "Title": "Git and Open Source",
+      "Description": "Google Developer Group Bhopal",
+      "imgs": "assets/images/achievements/gdg.svg",
+      "ghLink": "",
+      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
+      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"]
+    },
+    {
+      "Title": "1st Madhya Pradesh Chhatra Sansad Participation",
+      "Description": "Bharatiya Chhatra Sansad",
+      "imgs": "assets/images/achievements/sansad.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680935566/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwkUE%2FYMXT4GjjdOdN5E9Ag%3D%3D",
+      "Technologies": ["Madhya Pradesh Chhatra Sansad","Bharatiya Chhatra Sansad", "MIT-School of Govt."]
+    },
+    {
+      "Title": "PHP Diploma",
+      "Description": "IT Department of Professionals - Bhopal",
+      "imgs": "assets/images/achievements/ITDP.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680270834/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5sop%2BLYsQRK0KjWyG4tcaA%3D%3D",
+      "Technologies": ["Core PHP", "Laravel", "Codeigniter", "My SQL"]
+    },
+    {
+      "Title": "Java EE (Core + Advance)",
+      "Description": "Naresh i Technologies - Ameerpet, Hyderabad",
+      "imgs": "assets/images/achievements/NIT.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680620877/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6Pz6USRyQXWpcVm7KSDpwA%3D%3D",
+      "Technologies": ["Core Java", "Adv Java"]
+    },
+    {
+      "Title": "Oracle Database",
+      "Description": "Naresh i Technologies - Ameerpet, Hyderabad",
+      "imgs": "assets/images/achievements/NIT.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680524786/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWv%2FUUTMZR52TzWNI7y%2FzrA%3D%3D",
+      "Technologies": ["Oracle", "SQL"]
     }
   ],
 
