@@ -206,6 +206,14 @@
       "Technologies": ["Soft Skills", "Effective Email Writing", "Resume Writing","Interview Skills","IT Foundational Skills"]
     },
     {
+      "Title": "SQL (Advanced) Certificate",
+      "Description": "Completed SQL (Advanced) Certificate From HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/650f53841074",
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+    },
+    {
       "Title": "SQL (Intermediate) Certificate",
       "Description": "Completed SQL (Intermediate) Certificate From HackerRank",
       "imgs": "assets/images/achievements/hackerrank.png",
