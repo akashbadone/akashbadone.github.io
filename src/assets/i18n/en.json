@@ -206,6 +206,14 @@
       "Technologies": ["Soft Skills", "Effective Email Writing", "Resume Writing","Interview Skills","IT Foundational Skills"]
     },
     {
+      "Title": "Git and Open Source",
+      "Description": "Google Developer Group Bhopal",
+      "imgs": "assets/images/achievements/gdg.svg",
+      "ghLink": "",
+      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
+      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"]
+    },
+    {
       "Title": "SQL (Advanced) Certificate",
       "Description": "Completed SQL (Advanced) Certificate From HackerRank",
       "imgs": "assets/images/achievements/hackerrank.png",
@@ -228,14 +236,6 @@
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
       "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
-    },
-    {
-      "Title": "Git and Open Source",
-      "Description": "Google Developer Group Bhopal",
-      "imgs": "assets/images/achievements/gdg.svg",
-      "ghLink": "",
-      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
-      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"]
     },
     {
       "Title": "1st Madhya Pradesh Chhatra Sansad Participation",
