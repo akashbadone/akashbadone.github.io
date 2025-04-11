@@ -22,12 +22,14 @@
   "Experience.Jobs": [
     {
       "Tab": "MPONLINE",
-      "Company": "MPOnline Limited",
+      "Company": "MPOnline Limited (Joint Venture between Govt. of MP & TCS)",
       "Title": "IT Analyst",
       "Date": "Jan 2025 - Present",
       "Description": [
-        "Working on MPPSC Exam Application forms, payment system and reports.",
-        "Working on WCDs Anganwadi and Child Helpline Recruitment Services."
+        "Working on Madhya Pradesh Public Service Commission MPPSC (Govt. of MP)",
+        "1. Exam Application Forms (ex. Assistant Professor, State Engineering Services, State Service Examination (SSE), State Forest Service Exam etc.) </br> 2. Payment System (includes all means of payment methods) </br> 3. Data Validation and Processing </br> 4. Visualization with Reports and Dashboards.",
+        "Working on Ministry of Women and Child Development WCD (Govt. of MP) Anganwadi and Child Helpline Recruitment Services",
+        "1. Vacancy Collection - More than 17000+ vacancies were collected. </br> 2. Application Form - Candidates can fill Application Forms, Edit, Make Payment and get Duplicate Receipts."
       ]
     },
     {
