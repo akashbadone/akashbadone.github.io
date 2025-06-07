@@ -21,19 +21,15 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [{
-  path: ':language?',
+  path: '',
   component: _components_home_home_component__WEBPACK_IMPORTED_MODULE_0__.HomeComponent
 }, {
-  path: ':language?/proyectos',
+  path: 'projects',
   component: _components_archive_archive_component__WEBPACK_IMPORTED_MODULE_1__.ArchiveComponent
-},
-// {path: 'profile'        ,   component: ProfileComponent         , canActivate: [AuthGuard]},
-// {path: 'users'          ,   component: UsersComponent           , canActivate: [AuthGuard]},
-// {path: 'register-user'  ,   component: RegisterUserComponent    , canActivate: [AuthGuard]},
-{
+}, {
   path: '**',
-  pathMatch: 'full',
-  redirectTo: '/'
+  redirectTo: '',
+  pathMatch: 'full'
 }];
 class AppRoutingModule {
   static {
