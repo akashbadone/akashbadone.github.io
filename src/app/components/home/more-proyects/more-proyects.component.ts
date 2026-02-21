@@ -40,7 +40,7 @@ export class MoreProyectsComponent implements OnInit {
   if (img.includes('sansad.jpg')) return 100;
   if (img.includes('NIT.jpg')) return 60;
   if (img.includes('ITDP.png')) return 100;
-  if (img.includes('databricks.png')) return 200;
+  if (img.includes('databricks.svg')) return 200;
 
   return 40;
 }
