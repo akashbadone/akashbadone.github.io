@@ -192,12 +192,36 @@
       "Technologies": ["Communication Skills", "Presentation Skills" ,"Soft Skills", "Career Guidance Framework", "Resume Writing" , "Group Discussion Skills","Interview Skills","Business Etiquette"]
     },
     {
-      "Title": "The Fundamentals of Digital Marketing",
-      "Description": "Completed The Fundamentals of Digital Marketing From Google",
-      "imgs": "assets/images/achievements/Google.png",
+      "Title": "JavaScript (Intermediate) Certificate",
+      "Description": "Completed JavaScript (Intermediate) Certificate From HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
-      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728111123292/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuKlr3MkoTMCbDEeSYuS%2FNQ%3D%3D",
-      "Technologies": ["Online Presence", "Search Engine Optimization", "Search Engine Marketing", "Social Media Marketing", "Content Writing"]
+      "demoLink": "https://www.hackerrank.com/certificates/dbd23ce91489",
+      "Technologies": ["Design Patterns", "Memory Management", "Concurrency Model", "Event Loops"]
+    },
+    {
+      "Title": "JavaScript (Basic) Certificate",
+      "Description": "Completed JavaScript (Basic) Certificate From HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/fb8c74fff12e",
+      "Technologies": ["Functions", "Currying", "Hoisting", "Scope", "Inheritance", "Events and Error Handling"]
+    },
+    {
+      "Title": "C# (Basic) Certificate",
+      "Description": "Completed C# (Basic) Certificate From HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/79760bbd195c",
+      "Technologies": ["Types", "Variables", "OOPs", "Properties","Indexers", "Collections", "Exception handling"]
+    },
+    {
+      "Title": "Generative AI Fundamentals",
+      "Description": "Completed Generative AI Fundamentals From Databricks",
+      "imgs": "assets/images/achievements/databricks.png",
+      "ghLink": "",
+      "demoLink": "https://credentials.databricks.com/08583f6c-7260-4370-9ebf-3bbf4d786c7d#acc.aAKvGPCc",
+      "Technologies": ["Generative AI (Grn AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"]
     },
     {
       "Title": "LifeSkills(Software Development SoftSkills) Training Certification",
@@ -221,7 +245,7 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/650f53841074",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Query Optimization", "Data Modeling", "Indexing", "Window Functions", "Pivots"]
     },
     {
       "Title": "SQL (Intermediate) Certificate",
@@ -229,7 +253,7 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/757dc75bae1f",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Joins", "Unions", "Sub-Queries"]
     },
     {
       "Title": "SQL (Basic) Certificate",
@@ -237,7 +261,15 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Queries", "Relationships", "Aggregators"]
+    },
+    {
+      "Title": "The Fundamentals of Digital Marketing",
+      "Description": "Completed The Fundamentals of Digital Marketing From Google",
+      "imgs": "assets/images/achievements/Google.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728111123292/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuKlr3MkoTMCbDEeSYuS%2FNQ%3D%3D",
+      "Technologies": ["Online Presence", "Search Engine Optimization", "Search Engine Marketing", "Social Media Marketing", "Content Writing"]
     },
     {
       "Title": "1st Madhya Pradesh Chhatra Sansad Participation",
