@@ -1547,10 +1547,9 @@ function MoreProyectsComponent_div_11_Template(rf, ctx) {
   }
   if (rf & 2) {
     const project_r2 = ctx.$implicit;
-    const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("src", project_r2.imgs, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("width", ctx_r2.getImageWidth(project_r2.imgs));
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("width", project_r2.imgs == "assets/images/achievements/nasscom.png" ? 100 : project_r2.imgs == "assets/images/achievements/hackerrank.png" ? 150 : project_r2.imgs == "assets/images/achievements/gdg.svg" ? 250 : project_r2.imgs == "assets/images/achievements/sansad.jpg" ? 100 : project_r2.imgs == "assets/images/achievements/NIT.jpg" ? 60 : project_r2.imgs == "assets/images/achievements/ITDP.png" ? 100 : 40);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("href", project_r2["demoLink"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
@@ -1580,17 +1579,6 @@ class MoreProyectsComponent {
       return;
     }
     window.open(route, '_blank');
-  }
-  getImageWidth(img) {
-    if (!img) return 40;
-    if (img.includes('nasscom.png')) return 100;
-    if (img.includes('hackerrank.png')) return 150;
-    if (img.includes('gdg.svg')) return 250;
-    if (img.includes('sansad.jpg')) return 100;
-    if (img.includes('NIT.jpg')) return 60;
-    if (img.includes('ITDP.png')) return 100;
-    if (img.includes('databricks.png')) return 200;
-    return 40;
   }
   static {
     this.ɵfac = function MoreProyectsComponent_Factory(t) {
