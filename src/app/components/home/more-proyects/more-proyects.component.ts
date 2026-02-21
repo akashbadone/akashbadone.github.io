@@ -30,4 +30,19 @@ export class MoreProyectsComponent implements OnInit {
       window.open(route, '_blank');
     }
 
+  getImageWidth(img: string): number {
+
+  if (!img) return 40;
+
+  if (img.includes('nasscom.png')) return 100;
+  if (img.includes('hackerrank.png')) return 150;
+  if (img.includes('gdg.svg')) return 250;
+  if (img.includes('sansad.jpg')) return 100;
+  if (img.includes('NIT.jpg')) return 60;
+  if (img.includes('ITDP.png')) return 100;
+  if (img.includes('databricks.png')) return 200;
+
+  return 40;
+}
+
 }
