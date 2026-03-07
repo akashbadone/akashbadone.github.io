@@ -221,7 +221,7 @@
       "imgs": "assets/images/achievements/databricks.svg",
       "ghLink": "",
       "demoLink": "https://credentials.databricks.com/08583f6c-7260-4370-9ebf-3bbf4d786c7d#acc.aAKvGPCc",
-      "Technologies": ["Generative AI (Grn AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"]
+      "Technologies": ["Generative AI (Gen AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"]
     },
     {
       "Title": "LifeSkills(Software Development SoftSkills) Training Certification",
@@ -262,6 +262,14 @@
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
       "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Queries", "Relationships", "Aggregators"]
+    },
+    {
+      "Title": "YUVA AI for All",
+      "Description": "Completed The Fundamentals of Artificial Intelligence (AI) from TCS iON Career Edge - YUVA AI for All",
+      "imgs": "assets/images/achievements/TCSIONYUVAAI.png",
+      "ghLink": "",
+      "demoLink": "https://g09.tcsion.com//LX/ecertificate/verification?id=29102202-7212-84272-1",
+      "Technologies": ["Artificial Intelligence (AI)", "Machine Learning (ML)", "Deep Learning (DL)", "Natural Language Processing (NLP)", "Computer Vision (CV)"]
     },
     {
       "Title": "The Fundamentals of Digital Marketing",
