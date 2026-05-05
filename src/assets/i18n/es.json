@@ -215,51 +215,196 @@
     }
   ],
 
-  "OtherProjects.Title": "Mas proyectos",
+  "OtherProjects.Title": "Logros",
   "OtherProjects.Projects": [
     {
-      "Title": "Hands game",
-      "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-      "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://proyectos.andresjosehr.com/hands-game",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      "Title": "Artículo de investigación",
+      "Description": "Un estudio computacional y meta-análisis de recuperación de imágenes basada en contenido – IJATEE",
+      "imgs": "assets/images/achievements/accentsjournals.png",
+      "ghLink": "",
+      "demoLink": "https://www.accentsjournals.org/paperInfo.php?journalPaperId=1116",
+      "Technologies": ["Recuperación de imágenes eficiente", "CBIR", "Análisis computacional", "Correlación de datos"],
+      "Category": "Investigación y Publicaciones"
     },
     {
-      "Title": "Countries viewer",
-      "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+      "Title": "Artículo de investigación",
+      "Description": "Un estudio metodológico y análisis de algoritmos de aprendizaje automático – IJATEE",
+      "imgs": "assets/images/achievements/accentsjournals.png",
+      "ghLink": "",
+      "demoLink": "https://www.accentsjournals.org/paperInfo.php?journalPaperId=1119",
+      "Technologies": ["Machine Learning", "Support Vector Machine (SVM)", "K-Nearest Neighbors (KNN)", "Naïve Bayes", "Multilayer Perceptron (MLP)"],
+      "Category": "Investigación y Publicaciones"
     },
     {
-      "Title": "Four card feature section",
-      "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
+      "Title": "Certificado de JavaScript (Intermedio)",
+      "Description": "Certificado de JavaScript (Intermedio) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/dbd23ce91489",
+      "Technologies": ["Design Patterns", "Memory Management", "Concurrency Model", "Event Loops"],
+      "Category": "Certificaciones de Programación"
     },
     {
-      "Title": "Social proof section",
-      "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
-      "Technologies": ["Angular", "CSS GRID", "GIT"]
+      "Title": "Certificado de JavaScript (Básico)",
+      "Description": "Certificado de JavaScript (Básico) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/fb8c74fff12e",
+      "Technologies": ["Functions", "Currying", "Hoisting", "Scope", "Inheritance", "Events and Error Handling"],
+      "Category": "Certificaciones de Programación"
     },
     {
-      "Title": "FAQ accordion card",
-      "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+      "Title": "Certificado de C# (Básico)",
+      "Description": "Certificado de C# (Básico) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/79760bbd195c",
+      "Technologies": ["Types", "Variables", "OOPs", "Properties","Indexers", "Collections", "Exception handling"],
+      "Category": "Certificaciones de Programación"
     },
     {
-      "Title": "Profile card",
-      "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-      "Technologies": ["Angular", "SASS", "GIT"]
+      "Title": "Certificado de SQL (Avanzado)",
+      "Description": "Certificado de SQL (Avanzado) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/650f53841074",
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Query Optimization", "Data Modeling", "Indexing", "Window Functions", "Pivots"],
+      "Category": "Certificaciones de Programación"
+    },
+    {
+      "Title": "Certificado de SQL (Intermedio)",
+      "Description": "Certificado de SQL (Intermedio) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/757dc75bae1f",
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Joins", "Unions", "Sub-Queries"],
+      "Category": "Certificaciones de Programación"
+    },
+    {
+      "Title": "Certificado de SQL (Básico)",
+      "Description": "Certificado de SQL (Básico) completado en HackerRank",
+      "imgs": "assets/images/achievements/hackerrank.png",
+      "ghLink": "",
+      "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Queries", "Relationships", "Aggregators"],
+      "Category": "Certificaciones de Programación"
+    },
+    {
+      "Title": "DevOps Essentials",
+      "Description": "Conocimiento fundamental de las características básicas de DevOps. Exploré los conceptos de derribar silos y organizar desarrolladores y operadores en un único equipo de DevOps multifuncional.",
+      "imgs": "assets/images/achievements/IBM.png",
+      "ghLink": "",
+      "demoLink": "https://www.credly.com/badges/68bc8cca-b6cc-496b-94b1-05dac3f29bc9",
+      "Technologies": ["CI & CD", "Infrastructure as Code", "Test Driven Development", "Behavior Driven Development"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Postman Student Expert",
+      "Description": "Los expertos estudiantes de Postman son competentes en las habilidades esenciales requeridas para consumir APIs en Postman y aplicaciones.",
+      "imgs": "assets/images/achievements/postman_platform_logo.jpg",
+      "ghLink": "",
+      "demoLink": "https://badgr.com/public/assertions/CRQNLSYYStuLjHshF5v2ow",
+      "Technologies": ["API Key Authorization", "API Testing", "Performance & Load Testing", "Workspace", "Collection", "Environment"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Fundamentals de Inteligencia Artificial Generativa",
+      "Description": "Completé Fundamentals de Inteligencia Artificial Generativa de Databricks",
+      "imgs": "assets/images/achievements/databricks.svg",
+      "ghLink": "",
+      "demoLink": "https://credentials.databricks.com/08583f6c-7260-4370-9ebf-3bbf4d786c7d#acc.aAKvGPCc",
+      "Technologies": ["Generative AI (Gen AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "YUVA AI para Todos",
+      "Description": "Completé The Fundamentals of Artificial Intelligence (AI) de TCS iON Career Edge - YUVA AI para Todos",
+      "imgs": "assets/images/achievements/tcs.jpg",
+      "ghLink": "",
+      "demoLink": "https://g09.tcsion.com//LX/ecertificate/verification?id=29102202-7212-84272-1",
+      "Technologies": ["Artificial Intelligence (AI)", "Machine Learning (ML)", "Deep Learning (DL)", "Natural Language Processing (NLP)", "Computer Vision (CV)"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Fundamentos de Marketing Digital",
+      "Description": "Completé Fundamentos de Marketing Digital de Google",
+      "imgs": "assets/images/achievements/Google.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728111123292/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuKlr3MkoTMCbDEeSYuS%2FNQ%3D%3D",
+      "Technologies": ["Online Presence", "Search Engine Optimization", "Search Engine Marketing", "Social Media Marketing", "Content Writing"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Geo-datos e Inteligencia Cibernética",
+      "Description": "Alcancé Certificación en Compartición de Geo-datos e Inteligencia Cibernética de IIRS-ISRO",
+      "imgs": "assets/images/achievements/ISRO.jpg",
+      "ghLink": "",
+      "demoLink": "https://certificate.iirs.gov.in/",
+      "Technologies": ["IIRS", "ISRO", "Enr. No. : 20221121685005", "UID : c93f2a16be505da01c0d8fc665aa1400"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "TCS iON Career Edge - Profesional Joven",
+      "Description": "Completé el Taller de Habilidades Profesionales Jóvenes de TCS ION Career Edge",
+      "imgs": "assets/images/achievements/tcs.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728113247697/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bu7xoufGDTvWY5MsiBuYPQg%3D%3D",
+      "Technologies": ["Communication Skills", "Presentation Skills" ,"Soft Skills", "Career Guidance Framework", "Resume Writing" , "Group Discussion Skills","Interview Skills","Business Etiquette"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Certificación de Entrenamiento LifeSkills (Soft Skills de Desarrollo de Software)",
+      "Description": "Completé Entrenamiento LifeSkills de la Fundación Nasscom",
+      "imgs": "assets/images/achievements/nasscom.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728112611559/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtR0gGXouRbacgrJkA5MO%2Fg%3D%3D",
+      "Technologies": ["Soft Skills", "Effective Email Writing", "Resume Writing","Interview Skills","IT Foundational Skills"],
+      "Category": "Certificaciones Profesionales"
+    },
+    {
+      "Title": "Diploma de PHP",
+      "Description": "Departamento de TI de Profesionales - Bhopal",
+      "imgs": "assets/images/achievements/ITDP.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680270834/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5sop%2BLYsQRK0KjWyG4tcaA%3D%3D",
+      "Technologies": ["Core PHP", "Laravel", "Codeigniter", "My SQL"],
+      "Category": "Capacitación Especializada"
+    },
+    {
+      "Title": "Java EE (Core + Advance)",
+      "Description": "Naresh i Technologies - Ameerpet, Hyderabad",
+      "imgs": "assets/images/achievements/NIT.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680620877/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6Pz6USRyQXWpcVm7KSDpwA%3D%3D",
+      "Technologies": ["Core Java", "Adv Java"],
+      "Category": "Capacitación Especializada"
+    },
+    {
+      "Title": "Base de Datos Oracle",
+      "Description": "Naresh i Technologies - Ameerpet, Hyderabad",
+      "imgs": "assets/images/achievements/NIT.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680524786/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWv%2FUUTMZR52TzWNI7y%2FzrA%3D%3D",
+      "Technologies": ["Oracle", "SQL"],
+      "Category": "Capacitación Especializada"
+    },
+    {
+      "Title": "Git y Código Abierto",
+      "Description": "Google Developer Group Bhopal",
+      "imgs": "assets/images/achievements/gdg.svg",
+      "ghLink": "",
+      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
+      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"],
+      "Category": "Comunidad y Eventos"
+    },
+    {
+      "Title": "Participación en el 1er Parlamento Estudiantil de Madhya Pradesh",
+      "Description": "Bharatiya Chhatra Sansad",
+      "imgs": "assets/images/achievements/sansad.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680935566/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwkUE%2FYMXT4GjjdOdN5E9Ag%3D%3D",
+      "Technologies": ["Madhya Pradesh Chhatra Sansad","Bharatiya Chhatra Sansad", "MIT-School of Govt."],
+      "Category": "Comunidad y Eventos"
     }
   ],
 

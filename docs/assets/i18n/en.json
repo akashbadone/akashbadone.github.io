@@ -149,7 +149,8 @@
       "imgs": "assets/images/achievements/accentsjournals.png",
       "ghLink": "",
       "demoLink": "https://www.accentsjournals.org/paperInfo.php?journalPaperId=1116",
-      "Technologies": ["Efficient image retrieval", "CBIR", "Computational analysis", "Data correlation"]
+      "Technologies": ["Efficient image retrieval", "CBIR", "Computational analysis", "Data correlation"],
+      "Category": "Research & Publications"
     },
     {
       "Title": "Research Paper",
@@ -157,39 +158,8 @@
       "imgs": "assets/images/achievements/accentsjournals.png",
       "ghLink": "",
       "demoLink": "https://www.accentsjournals.org/paperInfo.php?journalPaperId=1119",
-      "Technologies": ["Machine Learning", "Support Vector Machine (SVM)", "K-Nearest Neighbors (KNN)", "Naïve Bayes", "Multilayer Perceptron (MLP)"]
-    },
-    {
-      "Title": "DevOps Essentials",
-      "Description": "Foundational knowledge of the basic characteristics of DevOps. Explored the concepts of breaking down silos and organize developers and operators into a single cross-functional DevOps team.",
-      "imgs": "assets/images/achievements/IBM.png",
-      "ghLink": "",
-      "demoLink": "https://www.credly.com/badges/68bc8cca-b6cc-496b-94b1-05dac3f29bc9",
-      "Technologies": ["CI & CD", "Infrastructure as Code", "Test Driven Development", "Behavior Driven Development"]
-    },
-    {
-      "Title": "Geo-data sharing and Cyber Security",
-      "Description": "Achieved Certification in Geo-data sharing and Cyber Security from IIRS-ISRO",
-      "imgs": "assets/images/achievements/ISRO.jpg",
-      "ghLink": "",
-      "demoLink": "https://certificate.iirs.gov.in/",
-      "Technologies": ["IIRS", "ISRO", "Enr. No. : 20221121685005", "UID : c93f2a16be505da01c0d8fc665aa1400"]
-    },
-    {
-      "Title": "Postman Student Expert",
-      "Description": "Postman Student Experts are proficient in the essential skills required for consuming APIs in Postman and applications.",
-      "imgs": "assets/images/achievements/postman_platform_logo.jpg",
-      "ghLink": "",
-      "demoLink": "https://badgr.com/public/assertions/CRQNLSYYStuLjHshF5v2ow",
-      "Technologies": ["API Key Authorization", "API Testing", "Performance & Load Testing", "Workspace", "Collection", "Environment"]
-    },
-    {
-      "Title": "TCS iON Career Edge - Young Professional",
-      "Description": "Completed Young Professional Skills Workshop from TCS ION Career Edge",
-      "imgs": "assets/images/achievements/tcs.jpg",
-      "ghLink": "",
-      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728113247697/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bu7xoufGDTvWY5MsiBuYPQg%3D%3D",
-      "Technologies": ["Communication Skills", "Presentation Skills" ,"Soft Skills", "Career Guidance Framework", "Resume Writing" , "Group Discussion Skills","Interview Skills","Business Etiquette"]
+      "Technologies": ["Machine Learning", "Support Vector Machine (SVM)", "K-Nearest Neighbors (KNN)", "Naïve Bayes", "Multilayer Perceptron (MLP)"],
+      "Category": "Research & Publications"
     },
     {
       "Title": "JavaScript (Intermediate) Certificate",
@@ -197,7 +167,8 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/dbd23ce91489",
-      "Technologies": ["Design Patterns", "Memory Management", "Concurrency Model", "Event Loops"]
+      "Technologies": ["Design Patterns", "Memory Management", "Concurrency Model", "Event Loops"],
+      "Category": "Programming Certifications"
     },
     {
       "Title": "JavaScript (Basic) Certificate",
@@ -205,7 +176,8 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/fb8c74fff12e",
-      "Technologies": ["Functions", "Currying", "Hoisting", "Scope", "Inheritance", "Events and Error Handling"]
+      "Technologies": ["Functions", "Currying", "Hoisting", "Scope", "Inheritance", "Events and Error Handling"],
+      "Category": "Programming Certifications"
     },
     {
       "Title": "C# (Basic) Certificate",
@@ -213,31 +185,8 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/79760bbd195c",
-      "Technologies": ["Types", "Variables", "OOPs", "Properties","Indexers", "Collections", "Exception handling"]
-    },
-    {
-      "Title": "Generative AI Fundamentals",
-      "Description": "Completed Generative AI Fundamentals From Databricks",
-      "imgs": "assets/images/achievements/databricks.svg",
-      "ghLink": "",
-      "demoLink": "https://credentials.databricks.com/08583f6c-7260-4370-9ebf-3bbf4d786c7d#acc.aAKvGPCc",
-      "Technologies": ["Generative AI (Gen AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"]
-    },
-    {
-      "Title": "LifeSkills(Software Development SoftSkills) Training Certification",
-      "Description": "Completed LifeSkills Training From Nasscom Foundation",
-      "imgs": "assets/images/achievements/nasscom.png",
-      "ghLink": "",
-      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728112611559/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtR0gGXouRbacgrJkA5MO%2Fg%3D%3D",
-      "Technologies": ["Soft Skills", "Effective Email Writing", "Resume Writing","Interview Skills","IT Foundational Skills"]
-    },
-    {
-      "Title": "Git and Open Source",
-      "Description": "Google Developer Group Bhopal",
-      "imgs": "assets/images/achievements/gdg.svg",
-      "ghLink": "",
-      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
-      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"]
+      "Technologies": ["Types", "Variables", "OOPs", "Properties","Indexers", "Collections", "Exception handling"],
+      "Category": "Programming Certifications"
     },
     {
       "Title": "SQL (Advanced) Certificate",
@@ -245,7 +194,8 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/650f53841074",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Query Optimization", "Data Modeling", "Indexing", "Window Functions", "Pivots"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Query Optimization", "Data Modeling", "Indexing", "Window Functions", "Pivots"],
+      "Category": "Programming Certifications"
     },
     {
       "Title": "SQL (Intermediate) Certificate",
@@ -253,7 +203,8 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/757dc75bae1f",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Joins", "Unions", "Sub-Queries"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Joins", "Unions", "Sub-Queries"],
+      "Category": "Programming Certifications"
     },
     {
       "Title": "SQL (Basic) Certificate",
@@ -261,7 +212,35 @@
       "imgs": "assets/images/achievements/hackerrank.png",
       "ghLink": "",
       "demoLink": "https://www.hackerrank.com/certificates/0f749460fc5e",
-      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Queries", "Relationships", "Aggregators"]
+      "Technologies": ["Microsoft SQL Server", "Sequential Query Language", "Queries", "Relationships", "Aggregators"],
+      "Category": "Programming Certifications"
+    },
+    {
+      "Title": "DevOps Essentials",
+      "Description": "Foundational knowledge of the basic characteristics of DevOps. Explored the concepts of breaking down silos and organize developers and operators into a single cross-functional DevOps team.",
+      "imgs": "assets/images/achievements/IBM.png",
+      "ghLink": "",
+      "demoLink": "https://www.credly.com/badges/68bc8cca-b6cc-496b-94b1-05dac3f29bc9",
+      "Technologies": ["CI & CD", "Infrastructure as Code", "Test Driven Development", "Behavior Driven Development"],
+      "Category": "Professional Certifications"
+    },
+    {
+      "Title": "Postman Student Expert",
+      "Description": "Postman Student Experts are proficient in the essential skills required for consuming APIs in Postman and applications.",
+      "imgs": "assets/images/achievements/postman_platform_logo.jpg",
+      "ghLink": "",
+      "demoLink": "https://badgr.com/public/assertions/CRQNLSYYStuLjHshF5v2ow",
+      "Technologies": ["API Key Authorization", "API Testing", "Performance & Load Testing", "Workspace", "Collection", "Environment"],
+      "Category": "Professional Certifications"
+    },
+    {
+      "Title": "Generative AI Fundamentals",
+      "Description": "Completed Generative AI Fundamentals From Databricks",
+      "imgs": "assets/images/achievements/databricks.svg",
+      "ghLink": "",
+      "demoLink": "https://credentials.databricks.com/08583f6c-7260-4370-9ebf-3bbf4d786c7d#acc.aAKvGPCc",
+      "Technologies": ["Generative AI (Gen AI)", "Retrieval Augmented Generation (RAG)", "Large Language Models (LLMs)", "Legal and Ethical Issues", "Artificial Intelligence (AI)"],
+      "Category": "Professional Certifications"
     },
     {
       "Title": "YUVA AI for All",
@@ -269,7 +248,8 @@
       "imgs": "assets/images/achievements/tcs.jpg",
       "ghLink": "",
       "demoLink": "https://g09.tcsion.com//LX/ecertificate/verification?id=29102202-7212-84272-1",
-      "Technologies": ["Artificial Intelligence (AI)", "Machine Learning (ML)", "Deep Learning (DL)", "Natural Language Processing (NLP)", "Computer Vision (CV)"]
+      "Technologies": ["Artificial Intelligence (AI)", "Machine Learning (ML)", "Deep Learning (DL)", "Natural Language Processing (NLP)", "Computer Vision (CV)"],
+      "Category": "Professional Certifications"
     },
     {
       "Title": "The Fundamentals of Digital Marketing",
@@ -277,15 +257,44 @@
       "imgs": "assets/images/achievements/Google.png",
       "ghLink": "",
       "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728111123292/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuKlr3MkoTMCbDEeSYuS%2FNQ%3D%3D",
-      "Technologies": ["Online Presence", "Search Engine Optimization", "Search Engine Marketing", "Social Media Marketing", "Content Writing"]
+      "Technologies": ["Online Presence", "Search Engine Optimization", "Search Engine Marketing", "Social Media Marketing", "Content Writing"],
+      "Category": "Professional Certifications"
     },
     {
-      "Title": "1st Madhya Pradesh Chhatra Sansad Participation",
-      "Description": "Bharatiya Chhatra Sansad",
-      "imgs": "assets/images/achievements/sansad.jpg",
+      "Title": "Geo-data sharing and Cyber Security",
+      "Description": "Achieved Certification in Geo-data sharing and Cyber Security from IIRS-ISRO",
+      "imgs": "assets/images/achievements/ISRO.jpg",
       "ghLink": "",
-      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680935566/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwkUE%2FYMXT4GjjdOdN5E9Ag%3D%3D",
-      "Technologies": ["Madhya Pradesh Chhatra Sansad","Bharatiya Chhatra Sansad", "MIT-School of Govt."]
+      "demoLink": "https://certificate.iirs.gov.in/",
+      "Technologies": ["IIRS", "ISRO", "Enr. No. : 20221121685005", "UID : c93f2a16be505da01c0d8fc665aa1400"],
+      "Category": "Professional Certifications"
+    },
+    {
+      "Title": "TCS iON Career Edge - Young Professional",
+      "Description": "Completed Young Professional Skills Workshop from TCS ION Career Edge",
+      "imgs": "assets/images/achievements/tcs.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728113247697/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bu7xoufGDTvWY5MsiBuYPQg%3D%3D",
+      "Technologies": ["Communication Skills", "Presentation Skills" ,"Soft Skills", "Career Guidance Framework", "Resume Writing" , "Group Discussion Skills","Interview Skills","Business Etiquette"],
+      "Category": "Professional Certifications"
+    },
+    {
+      "Title": "LifeSkills(Software Development SoftSkills) Training Certification",
+      "Description": "Completed LifeSkills Training From Nasscom Foundation",
+      "imgs": "assets/images/achievements/nasscom.png",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1728112611559/single-media-viewer?type=DOCUMENT&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtR0gGXouRbacgrJkA5MO%2Fg%3D%3D",
+      "Technologies": ["Soft Skills", "Effective Email Writing", "Resume Writing","Interview Skills","IT Foundational Skills"],
+      "Category": "Professional Certifications"
+    },
+    {
+      "Title": "Introduction to Model Context Protocol (MCP)",
+      "Description": "Anthropic AI (Claude)",
+      "imgs": "assets/images/achievements/claude.png",
+      "ghLink": "",
+      "demoLink": "https://verify.skilljar.com/c/b25tas6ha524",
+      "Technologies": ["Model Context Protocol (MCP)", "MCP servers", "MCP primitive", "model-controlled", "app-controlled", "user-controlled"],
+      "Category": "Specialized Training"
     },
     {
       "Title": "PHP Diploma",
@@ -293,7 +302,8 @@
       "imgs": "assets/images/achievements/ITDP.png",
       "ghLink": "",
       "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680270834/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5sop%2BLYsQRK0KjWyG4tcaA%3D%3D",
-      "Technologies": ["Core PHP", "Laravel", "Codeigniter", "My SQL"]
+      "Technologies": ["Core PHP", "Laravel", "Codeigniter", "My SQL"],
+      "Category": "Specialized Training"
     },
     {
       "Title": "Java EE (Core + Advance)",
@@ -301,7 +311,8 @@
       "imgs": "assets/images/achievements/NIT.jpg",
       "ghLink": "",
       "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680620877/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6Pz6USRyQXWpcVm7KSDpwA%3D%3D",
-      "Technologies": ["Core Java", "Adv Java"]
+      "Technologies": ["Core Java", "Adv Java"],
+      "Category": "Specialized Training"
     },
     {
       "Title": "Oracle Database",
@@ -309,7 +320,26 @@
       "imgs": "assets/images/achievements/NIT.jpg",
       "ghLink": "",
       "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680524786/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWv%2FUUTMZR52TzWNI7y%2FzrA%3D%3D",
-      "Technologies": ["Oracle", "SQL"]
+      "Technologies": ["Oracle", "SQL"],
+      "Category": "Specialized Training"
+    },
+    {
+      "Title": "Git and Open Source",
+      "Description": "Google Developer Group Bhopal",
+      "imgs": "assets/images/achievements/gdg.svg",
+      "ghLink": "",
+      "demoLink": "https://gdg.community.dev/events/details/google-gdg-bhopal-presents-git-and-open-source-a-closer-look/",
+      "Technologies": ["Git", "GitHub", "GitPod","Version Management Tool", "Open Source"],
+      "Category": "Community & Events"
+    },
+    {
+      "Title": "1st Madhya Pradesh Chhatra Sansad Participation",
+      "Description": "Bharatiya Chhatra Sansad",
+      "imgs": "assets/images/achievements/sansad.jpg",
+      "ghLink": "",
+      "demoLink": "https://www.linkedin.com/in/akashbadone/details/certifications/1736680935566/single-media-viewer?type=IMAGE&profileId=ACoAAAo_QA4BET3pA_oYkI8dIiM1N7eg8jE6U4U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwkUE%2FYMXT4GjjdOdN5E9Ag%3D%3D",
+      "Technologies": ["Madhya Pradesh Chhatra Sansad","Bharatiya Chhatra Sansad", "MIT-School of Govt."],
+      "Category": "Community & Events"
     }
   ],
 
