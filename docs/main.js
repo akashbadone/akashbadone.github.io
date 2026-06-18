@@ -529,9 +529,9 @@ class FooterComponent {
     this.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({
       type: FooterComponent,
       selectors: [["app-footer"]],
-      decls: 21,
+      decls: 27,
       vars: 1,
-      consts: [[1, "footer-left-bar", "d-none", "d-md-block"], ["href", "https://github.com/akashbadone", "title", "Github", "target", "_blank"], [1, "fab", "fa-github"], ["href", "https://www.linkedin.com/in/akashbadone/", "title", "LinkedIn", "target", "_blank"], [1, "fab", "fa-linkedin-in"], ["href", "https://g.dev/akashbadone", "title", "Google Developers", "target", "_blank"], [1, "fab", "fa-google"], ["href", "https://learn.microsoft.com/en-us/users/akashbadone/", "title", "Microsoft Learn", "target", "_blank"], [1, "fab", "fa-microsoft"], ["href", "https://www.hackerrank.com/profile/akashbadone", "title", "HackerRank", "target", "_blank"], [1, "fab", "fa-hackerrank"], [1, "footer-right-bar", "d-none", "d-md-block"], ["href", "mailto:akashbadone0@gmail.com", "target", "_blank"]],
+      consts: [[1, "footer-left-bar", "d-none", "d-md-block"], ["href", "https://github.com/akashbadone", "title", "Github", "target", "_blank"], [1, "fab", "fa-github"], ["href", "https://www.linkedin.com/in/akashbadone/", "title", "LinkedIn", "target", "_blank"], [1, "fab", "fa-linkedin-in"], ["href", "https://g.dev/akashbadone", "title", "Google Developers", "target", "_blank"], [1, "fab", "fa-google"], ["href", "https://learn.microsoft.com/en-us/users/akashbadone/", "title", "Microsoft Learn", "target", "_blank"], [1, "fab", "fa-microsoft"], ["href", "https://www.hackerrank.com/profile/akashbadone", "title", "HackerRank", "target", "_blank"], [1, "fab", "fa-hackerrank"], ["href", "https://www.credly.com/users/akashbadone", "title", "Credly by Pearson", "target", "_blank"], ["src", "/assets/images/achievements/credly.svg", "alt", "Credly by Pearson", 2, "width", "40px", "filter", "grayscale(100%)"], ["href", "https://www.holopin.io/@akashbadone#badges", "title", "Holopin", "target", "_blank"], ["src", "/assets/images/achievements/holopin.png", "alt", "Holopin", 2, "width", "30px", "filter", "grayscale(100%)"], [1, "footer-right-bar", "d-none", "d-md-block"], ["href", "mailto:akashbadone0@gmail.com", "target", "_blank"]],
       template: function FooterComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "footer")(1, "div")(2, "ul", 0)(3, "li")(4, "a", 1);
@@ -548,9 +548,15 @@ class FooterComponent {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](15, "li")(16, "a", 9);
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](17, "i", 10);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](18, "li")(19, "a", 11);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](20, "img", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "li")(22, "a", 13);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](23, "img", 14);
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()()();
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](18, "div", 11)(19, "a", 12);
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](20, "akashbadone0@gmail.com ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](24, "div", 15)(25, "a", 16);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](26, "akashbadone0@gmail.com ");
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()()()();
         }
         if (rf & 2) {
@@ -2042,13 +2048,14 @@ class LanguageService {
     this.location = location;
   }
   initLanguage() {
-    this.translateService.addLangs(["en", "es"]);
-    let language = navigator.language || navigator.userLanguage;
-    language = language.split("-").includes("es") ? "es" : "en";
-    this.translateService.setDefaultLang(language);
-    // Change the URL without navigate:
-    this.location.go(language);
-    this.language = language;
+    this.translateService.addLangs(["en"]);
+    // let language = navigator.language || (navigator as any).userLanguage;
+    // language = language.split("-").includes("es") ? "es" : "en"
+    // this.translateService.setDefaultLang(language)
+    // // Change the URL without navigate:
+    // this.location.go(language)
+    //this.language=language
+    this.language = "en";
   }
   changeLanguage(language) {
     this.translateService.setDefaultLang(language);
